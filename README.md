@@ -14,7 +14,7 @@ The official channel for this is ##irc2bash on irc.libera.chat. You are welcome 
 
 Clone the repository.
 
-`git clone --depth=1 https://github.com/a-bad-dev/irc2bash.git`
+`git clone --depth=1 https://github.com/user333dev/irc2bash.git`
 
 `cd irc2bash/`
 
